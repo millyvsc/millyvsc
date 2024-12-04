@@ -1,6 +1,6 @@
 # Hello Everyone ✨
 
-<img align="right" alt="GIF" height="160px" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif"/>
+<img align="right" alt="GIF" height="150px" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif"/>
 
 - 💜 Tecnóloga em Análise e Desenvolvimento de Sistemas - IFBaiano
 - 🌙 Aprendendo cada vez mais
@@ -28,13 +28,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=millyvasc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millyvasc&theme=radical&layout=compact&line_height=40&hide=css"/>
 </div>
--->  
+
   
 ### <br><br> - Contatos
 <div>
   <a href= "https://instagram.com/millyvasc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href= "mailto:camillejaninecte@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
   <a href= "https://www.linkedin.com/in/camille-janine-306198268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  <!--<a href= ""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"</a>-->
+  <a href= ""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"</a>
 </div>
+-->
+
  
